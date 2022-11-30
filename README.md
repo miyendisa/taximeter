@@ -48,4 +48,4 @@ Give me a &#11088; if you like the project.
 ---
 
 ## Acknowledgments
-* This repo is created for my homeworks on www.patika.dev.
+* This repo is created for my projects on www.patika.dev.
